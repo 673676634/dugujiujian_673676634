@@ -15,5 +15,10 @@ public class Dugu {
         System.out.println("jianfa dugujianfa!!!!!433434!3!!!!");
         System.out.println("222");
         System.out.println("jianfa dugujianfa!!!!!!32323!!!!");
+        System.out.println("jianfa dugujianfa!!!!!!!!!!!!!!!");
+        System.out.println("jianfa dugujianfa!!!!!!!!!!!!!!!");
+        System.out.println("jianfa dugujianfa!!!!!!!!!!!!!!!");
+        System.out.println("jianfa dugujianfa!!!!!!!!!!!!!!!");
+        System.out.println("jianfa dugujianfa!!!!!!!!!!!!!!!");
     }
 }
