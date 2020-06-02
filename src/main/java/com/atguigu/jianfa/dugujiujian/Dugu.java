@@ -10,5 +10,10 @@ package com.atguigu.jianfa.dugujiujian;
 public class Dugu {
     public static void main(String[] args) {
         System.out.println("jianfa dugujianfa!!!!!!!!!!!!!!!");
+        System.out.println("jianfa dugujianfa!1111");
+        System.out.println("jianfa dugujianfa!!2222!");
+        System.out.println("jianfa dugujianfa!!!!!433434!3!!!!");
+        System.out.println("222");
+        System.out.println("jianfa dugujianfa!!!!!!32323!!!!");
     }
 }
